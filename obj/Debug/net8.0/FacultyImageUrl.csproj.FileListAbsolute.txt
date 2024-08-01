@@ -1,0 +1,8 @@
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.csproj.AssemblyReference.cache
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.AssemblyInfoInputs.cache
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.AssemblyInfo.cs
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.csproj.CoreCompileInputs.cache
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iApps\Documents\GitHub\FacultyImageUrl\obj\Debug\net8.0\FacultyImageUrl.sourcelink.json

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\facultyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:facultyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\dto\\facultymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:dto\\facultymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|c:\\users\\iapps\\documents\\github\\facultyimageurl\\entity\\facultymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DED618-4162-453D-B31B-7CACA3AA0DDE}|FacultyImageUrl.csproj|solutionrelative:entity\\facultymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:03:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacultyController.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "Controllers\\FacultyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:02:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacultyMember.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Entity\\FacultyMember.cs",
+              "RelativeDocumentMoniker": "Entity\\FacultyMember.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Entity\\FacultyMember.cs",
+              "RelativeToolTip": "Entity\\FacultyMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:01:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacultyMemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\DTO\\FacultyMemberDto.cs",
+              "RelativeDocumentMoniker": "DTO\\FacultyMemberDto.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\DTO\\FacultyMemberDto.cs",
+              "RelativeToolTip": "DTO\\FacultyMemberDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:01:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacultyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\FacultyProfile.cs",
+              "RelativeDocumentMoniker": "FacultyProfile.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\FacultyProfile.cs",
+              "RelativeToolTip": "FacultyProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:58:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:57:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\iApps\\Documents\\GitHub\\FacultyImageUrl\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-01T14:55:55.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
